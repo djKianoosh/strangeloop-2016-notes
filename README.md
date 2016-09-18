@@ -2,7 +2,8 @@
 
 [Strange Loop](http://www.thestrangeloop.com/) is one of my favorite conferences, technical or otherwise. I didn't get a chance to go this year, but thanks to the organizers for putting up the videos so quick!
 
-https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa
+- [2016 Video Playlist](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)
+- More good stuff at [#strangeloop on Twitter](https://twitter.com/hashtag/strangeloop)
 
 Here are some of the ones I've seen already
 
