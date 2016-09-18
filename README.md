@@ -1,6 +1,6 @@
 # Strange Loop 2016 Notes
 
-Strange Loop is one of my favorite conferences, technical or otherwise. I didn't get a chance to go this year, but thanks to the organizers for putting up the videos so quick!
+[Strange Loop](http://www.thestrangeloop.com/) is one of my favorite conferences, technical or otherwise. I didn't get a chance to go this year, but thanks to the organizers for putting up the videos so quick!
 
 https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa
 
