@@ -7,7 +7,12 @@
 
 Here are some of the ones I've seen already
 
+### Keynotes
 - [Government Hacking and Human Rights](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) : verrrry interesting about boundaries between what govs should be able to do vs privacy/human rights; really important talk by a lawyer in the DC area
+- [Humanities x Technology](https://www.youtube.com/watch?v=fNe1i7nVbXI&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa&index=32) : Just watch it! Damn good keynote.
+
+### Videos I've seen
+
 - [Is it a Bug or Story](https://www.youtube.com/watch?v=sMy4L-J6fFs&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) - not about agile, but determining whether the big data you’re analyzing is misleading or actually a big story (in the newspaper sense)
 - [If Gaudi had a Cluster](https://www.youtube.com/watch?v=6WpZV1cBI2g&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa&index=13) - interesting for architects (real life buildings, not software arch), interesting piece of software though, they built a [“flow” based visual programming language](https://en.wikipedia.org/wiki/Flow-based_programming)
 - [Exploring Conversational interfaces with Alexa and Go](https://www.youtube.com/watch?v=pDdE3PKy6mo&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa&index=21) - haven’t finished, but very hands on if you want to get into programming an Alexa or any voice activated interface
@@ -18,8 +23,4 @@ Here are some of the ones I've seen already
 - [End to end encryption](https://www.youtube.com/watch?v=oRZoeDRACrY&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa&index=30) - if you wondered about the nitty gritty of how encryption works, this is it. Kleppman and Vasile are researchers of this stuff, but play-acted out the way encryption works in a way that should be accessible to most technical folks. neat presentation.
 - [Storytelling with your Data](https://youtu.be/-uwnH9SU89s?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) - talks about Angular 2, D3, three.js and rxjs, but the talk itself (sound quality or maybe delivery?) wasn’t really that good :disappointed: still, had live programming which is tough to do, so kudos to the speaker that is impressive
 
-I heard good things about a few other ones that I want to see:
-- Caching at Netflix
-- Lies, damn lies, and metrics
-- Systems programming as a swiss army knife - hard core unix stuff here, should be good
-- Diocletian, Constantine, Bedouin sayings and Network Defense - because with a title like that, gotta watch it
+Sooooo many more to see.... 
