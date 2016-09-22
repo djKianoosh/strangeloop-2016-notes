@@ -22,5 +22,9 @@ Here are some of the ones I've seen already
   - Don't open source too early, the feedback wont let the project breathe and grow
 - [End to end encryption](https://www.youtube.com/watch?v=oRZoeDRACrY&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa&index=30) - if you wondered about the nitty gritty of how encryption works, this is it. Kleppman and Vasile are researchers of this stuff, but play-acted out the way encryption works in a way that should be accessible to most technical folks. neat presentation.
 - [Storytelling with your Data](https://youtu.be/-uwnH9SU89s?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) - talks about Angular 2, D3, three.js and rxjs, but the talk itself (sound quality or maybe delivery?) wasn’t really that good :disappointed: still, had live programming which is tough to do, so kudos to the speaker that is impressive
+- [Zen of High Performance Messaging with NATS](https://www.youtube.com/watch?v=dYrYCt2dTkw&list=WL&index=41z)
+  - Explains how [NATS](https://github.com/nats-io/gnatsd) is based on the concept of architectural simplicity which allows it to be reliable/performant/scalable while being simple (with a hat tip to Rich Hickey's points on Simple vs Easy)
+  - NATS protects itself from slow consumers by disconnecting them! (my ?: what if you have a permanently slow consumer with bad latency?)
+  - If I'm hearing right, NATS wasn't designed for guaranteed delivery, but because of that, it can go faster (see what I did there?)
 
 Sooooo many more to see.... 
