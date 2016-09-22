@@ -4,6 +4,7 @@
 
 - [2016 Video Playlist](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)
 - More good stuff at [#strangeloop on Twitter](https://twitter.com/hashtag/strangeloop)
+- [Strange Loop 2016 Content Repository](https://github.com/strangeloop/StrangeLoop2016)
 
 Here are some of the ones I've seen already
 
